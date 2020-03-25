@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Blast Blast Furnaces",
+        "description": "A multi-block structure to get more gold and iron from smelting",
+        "icon": {
+            "item": "blast_furnace"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:elemend",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
