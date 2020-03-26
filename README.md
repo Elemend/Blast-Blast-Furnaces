@@ -21,20 +21,35 @@ Then you build either: bricks, nether bricks or red nether bricks around it in a
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-25_21.10.57.png)
 
 The iron bars are decoration, they're not needed. You can have any block above the furnace, including a hopper, and also any block above the hopper inside the multi-block structure.
+The multi-block structure can for example be stacked on top of each other:
+
+![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-26_18.09.31.png)
+
 If the furnace is running it displays the item (nether gold ore) that is being smelted in the hopper together with flames and smoke to simulate the effect that something is being smelted:
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-26_17.41.02.png)
-When the item changes the display of the item does too and when the furnace runs out of fuel or there is no item to smelt the display clears to no item being displayed. If there is any block above this hopper the item and the particles won't be displayed.
+When the item changes, the display of the item does too and when the furnace runs out of fuel or there is no item to smelt the display clears to no item being displayed. If there is any block above this hopper the item and the particles won't be displayed.
 
-The multi-block structure can also be stacked on top of each other:
-![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-26_18.09.31.png)
+
+# Supported Items:
+
+Iron armour pieces, iron tools, iron sword and iron horse armour, 
+chainmail armour pieces, 
+gold armour pieces, gold tools, gold sword and golden horse armour
+and most importantly:
+
+iron ore and gold ore.
+If you use the 1.16 Version it allows nether gold ore too.
+
+The blast blast furnace outputs iron- and gold nuggets into the hopper. From each smelting you get a random amount which loosely respects the amount of ingots that went into crafting the item. From the ores you can get anything from 3 to 9 nuggets.
+
 
 # Download
 
-[**Download for 1.15.x**](https://github.com/Elemend/Blast-Blast-Furnaces/releases/tag/1.15.x)
+[**Download for 1.15.x**](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/1.15/blast_blast_furnaces_1.15.zip)
 
-[**Download for 1.16.x**](https://github.com/Elemend/Blast-Blast-Furnaces/releases/tag/1.16.x)
+[**Download for 1.16.x**](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/1.16/blast_blast_furnaces_1.16.zip)
 
-The **"blast_blast_furnaces_1.xx.x.zip"** is what you'll need. Save that.
+Click the **Download** button and save it
 
 
 # Installation
