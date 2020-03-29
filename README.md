@@ -56,6 +56,10 @@ Click the **Download** button and save it
 
 Open your minecraft directory, where the savefile for your world is located. Your worldsave contains a folder "datapacks", where the zipfile needs to be copied into. Minecraft will enable new availabe datapacks on a restart of the world. If the world is currently running, you will need to type the command: **/reload** into chat. If the datapack doesn't show up in the advancement screen I suggest you first try to run the reload command.
 
+# Uninstall
+
+To completely remove this datapack from your world, you need to execute a function from chat: `/function bbf:uninstall_bbf` 
+This will remove the scoreboards that were added to not clog up the "scoreboard.dat" of your worldsave. Then you can close the world and delete the zip file from your datapacks folder. It might become necessary to close Minecraft completely since a message could pop up saying: "the file is still in use".
 
 # Known Problems:
 
