@@ -15,7 +15,7 @@ This uses a hopper right next to any furnace or blast furnace. The hopper needs 
 
 Then you need to **throw a fire charge** into the hopper **cavity**, not on the rim. Standard button for throwing is "q". Then you'll hear a "whoosh" sound which lets you know it worked. If you destroy the hopper you get these items back, not the fire charge though.
 
-Then you build either: bricks, nether bricks or red nether bricks around it in any combination:
+Then you build either: bricks, nether bricks, red nether bricks, stone bricks, end stone bricks, mossy stone bricks, cracked stone bricks, chiseled stone bricks around it in any combination. If you're in the 1.16 Version, additionally cracked nether bricks, chiseled nether bricks, polished blackstone bricks and cracked polished blackstone bricks work as well.
 
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-25_21.10.15.png)
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-25_21.10.57.png)
