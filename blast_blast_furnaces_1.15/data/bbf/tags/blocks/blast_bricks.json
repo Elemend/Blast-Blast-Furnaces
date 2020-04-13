@@ -8,10 +8,6 @@
 		"minecraft:red_nether_bricks",
 		"minecraft:mossy_stone_bricks",
 		"minecraft:cracked_stone_bricks",
-		"minecraft:cracked_nether_bricks",
-		"minecraft:chiseled_stone_bricks",
-		"minecraft:chiseled_nether_bricks",
-		"minecraft:polished_blackstone_bricks",
-		"minecraft:cracked_polished_blackstone_bricks"
+		"minecraft:chiseled_stone_bricks"		
 	]
 }
