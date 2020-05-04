@@ -60,7 +60,3 @@ Open your minecraft directory, where the savefile for your world is located. You
 
 To completely remove this datapack from your world, you need to execute a function from chat: `/function bbf:uninstall_bbf` 
 This will remove the scoreboards that were added to not clog up the "scoreboard.dat" of your worldsave. Then you can close the world and delete the zip file from your datapacks folder. It might become necessary to close Minecraft completely since a message could pop up saying: "the file is still in use".
-
-# Known Problems:
-
-You can't use this on Minecraft REALMS because predicates don't work there.
