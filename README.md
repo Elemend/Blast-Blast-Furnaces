@@ -49,7 +49,7 @@ The blast blast furnace outputs iron- and gold nuggets into the hopper. From eac
 
 [**Download for 1.16.x**](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/1.16/blast_blast_furnaces_1.16.zip)
 
-[**Download for 1.17.x**](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/blast_blast_furnaces_1.17.zip)
+[**Download for 1.17.x**](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/1.17/blast_blast_furnaces_1.17.zip)
 
 Click the **Download** button and save it
 
