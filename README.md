@@ -13,7 +13,8 @@ This uses a hopper right next to any furnace or blast furnace. The hopper needs 
 
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-26_17.55.19.png)
 
-Then you need to **throw a fire charge** into the hopper **cavity**, not on the rim. Standard button for throwing is "q". Then you'll hear a "whoosh" sound which lets you know it worked. If you destroy the hopper you get these items back, not the fire charge though.
+Then you need to **throw a fire charge** into the hopper **cavity**, not on the rim. Standard button for throwing is "q". Then you'll hear a "whoosh" sound which lets you know it worked. If you destroy the hopper you get these items back, not the fire charge though. 
+**If you update to the 1.17 Version, but had the 1.16 Version installed you need to update the blast blast furnaces by throwing a fire charge into the hopper again.**
 
 Then you build either: bricks, nether bricks, red nether bricks, stone bricks, end stone bricks, mossy stone bricks, cracked stone bricks, chiseled stone bricks around it in any combination. If you're in the 1.16 Version, additionally cracked nether bricks, chiseled nether bricks, polished blackstone bricks and cracked polished blackstone bricks work as well.
 
@@ -26,7 +27,9 @@ The multi-block structure can for example be stacked on top of each other:
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-26_18.09.31.png)
 
 If the furnace is running it displays the item (nether gold ore) that is being smelted in the hopper together with flames and smoke to simulate the effect that something is being smelted:
+
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-26_17.41.02.png)
+
 When the item changes, the display of the item does too and when the furnace runs out of fuel or there is no item to smelt the display clears to no item being displayed. If there is any block above this hopper the item and the particles won't be displayed.
 
 
@@ -62,3 +65,9 @@ Open your minecraft directory, where the savefile for your world is located. You
 
 To completely remove this datapack from your world, you need to execute a function from chat: `/function bbf:uninstall_bbf` 
 This will remove the scoreboards that were added to not clog up the "scoreboard.dat" of your worldsave. Then you can close the world and delete the zip file from your datapacks folder. It might become necessary to close Minecraft completely since a message could pop up saying: "the file is still in use".
+
+## Updated 14.06.2021
+
+This Update changes the marker entity to a marker. The armor stand is now only there for the visuals.
+Added a manual update path for this change: The player has to throw a fire charge into the hopper again. This will change the armor stand for a marker.
+No need to destroy the hopper.
