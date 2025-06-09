@@ -1,5 +1,5 @@
 # Blast-Blast-Furnaces
-A datapack for Minecraft Java Edition which aims to give more gold and iron from smelting. Versions 1.15/1.16/1.17
+A datapack for Minecraft Java Edition which aims to give more gold and iron from smelting. Version 1.21.5 (Older Versions available)
 
 # If this Datapack is installed, a new advancement tab shows up to let you know it's installed.
 
