@@ -14,9 +14,8 @@ This uses a hopper right next to any furnace or blast furnace. The hopper needs 
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-26_17.55.19.png)
 
 Then you need to **throw a fire charge** into the hopper **cavity**, not on the rim. Standard button for throwing is "q". Then you'll hear a "whoosh" sound which lets you know it worked. If you destroy the hopper you get these items back, not the fire charge though. 
-**If you update to the 1.17 Version, but had the 1.16 Version installed you need to update the blast blast furnaces by throwing a fire charge into the hopper again.**
 
-Then you build either: bricks, nether bricks, red nether bricks, stone bricks, end stone bricks, mossy stone bricks, cracked stone bricks, chiseled stone bricks around it in any combination. If you're in the 1.16 Version, additionally cracked nether bricks, chiseled nether bricks, polished blackstone bricks and cracked polished blackstone bricks work as well.
+Then you build either: bricks, nether bricks, red nether bricks, stone bricks, end stone bricks, mossy stone bricks, cracked stone bricks, chiseled stone bricks, cracked nether bricks, chiseled nether bricks, polished blackstone bricks, cracked polished blackstone bricks, mud bricks, resin bricks, tuff bricks, quartz bricks, deepslate bricks, cracked deepslate bricks and prismarine bricks around it in any combination.
 
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-25_21.10.15.png)
 ![Tab](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/Pictures/2020-03-25_21.10.57.png)
@@ -38,23 +37,17 @@ When the item changes, the display of the item does too and when the furnace run
 Iron armour pieces, iron tools, iron sword and iron horse armour, 
 chainmail armour pieces, 
 gold armour pieces, gold tools, gold sword and golden horse armour
-and most importantly:
 
-iron ore and gold ore.
-If you use the 1.16 Version it allows nether gold ore too.
+variations of iron ore, gold ore and copper ore.
 
-The blast blast furnace outputs iron- and gold nuggets into the hopper. From each smelting you get a random amount which loosely respects the amount of ingots that went into crafting the item. From the ores you can get anything from 3 to 9 nuggets.
+The blast blast furnace outputs nuggets and or ingots into the hopper. Depending on the recipe you get a random amount which loosely respects the amount of ingots that went into crafting the item. From the ores you can either get anything from 3 to 9 nuggets or an ingot, depending on the settings.
 
 
 # Download
 
-[**Download for 1.15.x**](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/1.15/blast_blast_furnaces_1.15.zip)
+[**Download for 1.21.5**](https://github.com/Elemend/Blast-Blast-Furnaces/releases/tag/1.21.5)
 
-[**Download for 1.16.x**](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/1.16/blast_blast_furnaces_1.16.zip)
-
-[**Download for 1.17.x**](https://github.com/Elemend/Blast-Blast-Furnaces/blob/master/1.17/blast_blast_furnaces_1.17.zip)
-
-Click the **Download** button and save it
+Click on the .zip and save it
 
 
 # Installation
@@ -63,11 +56,8 @@ Open your minecraft directory, where the savefile for your world is located. You
 
 # Uninstall
 
-To completely remove this datapack from your world, you need to execute a function from chat: `/function bbf:uninstall_bbf` 
-This will remove the scoreboards that were added to not clog up the "scoreboard.dat" of your worldsave. Then you can close the world and delete the zip file from your datapacks folder. It might become necessary to close Minecraft completely since a message could pop up saying: "the file is still in use".
+Mine/destroy the Hopper to get the recipe-items back. This will get rid of the marker entity that made it work. Then you can remove this datapack from your world. Execute a function from chat: `/function bbf:uninstall_bbf`, which will remove the scoreboards that were added. This will ensure that the "scoreboard.dat" of your worldsave won't have unneeded and unused scoreboards left. Then you can close the world and delete the zip file from your datapacks folder. It might become necessary to close Minecraft completely since a message could pop up saying: "the file is still in use".
 
-## Updated 14.06.2021
+## Updated 09.06.2025
 
-This Update changes the marker entity to a marker. The armor stand is now only there for the visuals.
-Added a manual update path for this change: The player has to throw a fire charge into the hopper again. This will change the armor stand for a marker.
-No need to destroy the hopper.
+This Update uses all the new command features of the latest versions of Minecraft. Really efficient, lightweight on the game. Can have several hundreds blast blast furnaces running without much of an impact.
